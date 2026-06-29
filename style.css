@@ -1,6 +1,11 @@
 .cabecalho{
-    background-color: blue;
+    background-color: rgb(245, 144, 206);
+    color: rgb(245, 144, 205);
+    text-aling: center;
+    max-width: 
 }
 
-
-.conteudo-principal
+.conteudo-principal{
+    background-color: rgb(0, 0, 0);
+color: rgb(245, 144, 206);
+}
